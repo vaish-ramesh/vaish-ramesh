@@ -12,7 +12,7 @@ what you'll find here:
 
 a few things about me:
 
-	🏭 ex-Cipla — built dashboards tracking 200+ instruments in a GMP-regulated plant
+	🏭 ex-Cipla — built dashboards tracking 200k+ AHU Alarm records and Utilities Powerformance Dashboard in a GMP-regulated plant
 	⚡ promoted from trainee → senior executive in 12 months (mostly by making reporting less painful for everyone)
 	🎓 Electronics & Instrumentation engineer by degree, analyst by choice
 	📍 based in Bengaluru
