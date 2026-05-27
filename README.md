@@ -1,33 +1,51 @@
-## Hi there, I'm Vaishnavi 👋
+<h1 align="center">Hi there, I'm Vaishnavi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-	I'm a data analyst who spent almost two years inside a pharma manufacturing plant (Cipla), where bad data meant real problems — missed calibrations, compliance gaps, delayed decisions. That's where I learned to actually care about data quality, not just talk about it.
-	Now I build things with Python, SQL, and Power BI — mostly dashboards, automation scripts, and analysis notebooks that help people stop digging through spreadsheets manually.
-
-what you'll find here:
-
-	📊 EDA notebooks — exploring public datasets, finding patterns, asking questions the data doesn't volunteer
-	🔧 automation scripts — things I got tired of doing manually
-	📈 dashboard projects — Power BI and Python visualizations
-	🧪 experiments — half-finished ideas and things I'm figuring out
-
-a few things about me:
-
-	🏭 ex-Cipla — built dashboards tracking 200k+ AHU Alarm records and Utilities Powerformance Dashboard in a GMP-regulated plant
-	⚡ promoted from trainee → senior executive in 12 months (mostly by making reporting less painful for everyone)
-	🎓 Electronics & Instrumentation engineer by degree, analyst by choice
-	📍 based in Bengaluru
-
-currently:
-
-	🔍 looking for data analyst / business analyst / business intelligence roles
-	📚 going deeper on SQL window functions and data modeling
-	🛠️ building public dashboard projects
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavi02r">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vaishnavi.ramesh71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  Data Analyst who learned to care about data quality<br>
+  the hard way — inside a pharma manufacturing plant.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+### 🙋‍♀️ About Me
+
+- 🏭 Spent almost 2 years at **Cipla** where bad data had real consequences — that's where data quality stopped being a concept and became a habit
+- 📊 Now I build dashboards and dig into data to find what's actually going on underneath
+- 🔍 Actively looking for **Data Analyst** roles where the work genuinely matters
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaish-ramesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-ramesh&theme=tokyonight" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-ramesh&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
+</div>
+
+
+---
+
+### 📬 Let's Connect
+
+<div align="left">
+  <a href="https://linkedin.com/in/[Vaishnavi R](http://www.linkedin.com/in/vaishnavi02r)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vaishnavi.ramesh71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
