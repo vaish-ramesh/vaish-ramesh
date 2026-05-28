@@ -18,7 +18,7 @@
 
 - 🏭 Spent almost 2 years at **Cipla** where bad data had real consequences — that's where data quality stopped being a concept and became a habit
 - 📊 Now I build dashboards and dig into data to find what's actually going on underneath
-- 🔍 Actively looking for **Data Analyst** roles where the work genuinely matters
+- - 🔍 Actively looking for **Data Analyst** roles to start my next adventure
 
 ---
 
