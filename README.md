@@ -25,12 +25,7 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaish-ramesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-ramesh&theme=tokyonight" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-ramesh&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
 </div>
 
 
